@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gamze.
-- 👀 I’m interested in 
+- 👀 I’m interested in Math and coding
 - 🌱 I’m currently learning .NET Core and C#
-- 📫 How to reach me gamzeogutcu@gmail.com
+- 📫 How to reach me: gamzeogutcu@gmail.com
 
 <!---
 gamzeogutcu/gamzeogutcu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
