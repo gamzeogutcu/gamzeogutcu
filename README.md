@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gamze.
 - 👀 I’m interested in Math and coding
-- 🌱 I’m currently learning .NET Core and C#
+- 🌱 I’m currently learning .NET Core, C#, Python and Data Science
 - 📫 How to reach me: gamzeogutcu@gmail.com
 
 <!---
